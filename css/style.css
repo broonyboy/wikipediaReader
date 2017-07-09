@@ -1,0 +1,19 @@
+.wrapper {
+  margin: auto;
+  width: 90%;
+}
+
+random {
+  margin-top: 20px;
+}
+
+#searchBox {
+  width: 80%;
+}
+
+#output {
+  margin: auto;
+  border-radius: 25px;
+  font-family: 'Lobster';
+  width: 65%;
+}
